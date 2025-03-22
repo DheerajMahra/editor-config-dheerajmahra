@@ -1,0 +1,21 @@
+{
+  "name": "@dheerajmahra/editor-config",
+  "version": "0.1.0",
+  "description": "A simple editorconfig for my personal projects",
+  "type": "module",
+  "bin": {
+    "create-editor-config": "index.js"
+  },
+  "keywords": [
+    "config",
+    "editorconfig",
+    "dheerajmahra"
+  ],
+  "files": [
+    "templates",
+    "index.js"
+  ],
+  "author": "Dheeraj Mahra <dheerajmahra873@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.4.1"
+}
